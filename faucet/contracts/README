@@ -1,1 +1,4 @@
+Problem: Need to create a faucet which accepts donations, give aways a set amount of tokens to requestors. Also, the contract deployer should be the admin and only he should be capable of assigning a new admin, assigning the amount of token to give away and the lock time until which the same requestor could not request for more tokens. There should be the ability for any user to see amount of tokens available in the faucet.
+
+Solution:
 Verified and published at https://mumbai.polygonscan.com/address/0x411ec4d7860a80d497077d0ee79f99f63919fab8#code for git commit hash at 6c101fd3f21d6ceeccc2997edfceeed35676b505
